@@ -30,7 +30,7 @@
 const char* WIFI_SSID = "Home36";
 const char* WIFI_PASS = "83227423";
 
-const char* API_URL     = "https://gv-traffic.com.ua/api/inverter_push.php";
+const char* API_URL     = "https://yourhost.com/api/inverter_push.php";
 const char* INVERTER_ID = "inverter";
 
 
